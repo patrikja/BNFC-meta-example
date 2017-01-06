@@ -2,7 +2,7 @@
 resolver: lts-6.27
 
 packages:
-- BNFC-meta-example/
+- '.'
 
 extra-deps:
 - BNFC-meta-0.4.0.3
